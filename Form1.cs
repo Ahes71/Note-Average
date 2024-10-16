@@ -34,12 +34,12 @@ namespace WindowsFormsApp1
                 }
                 else
                 {
-                    MessageBox.Show("Notlar 0 ile 100 arasında olmalıdır!");
+                    MessageBox.Show("Notes must be between 0 and 100!");
                 }
             }
             else
             {
-                MessageBox.Show("Lütfen geçerli bir not girin!");
+                MessageBox.Show("Please enter a valid Note!");
             }
         }
 
